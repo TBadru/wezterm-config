@@ -1,3 +1,3 @@
 # Wezterm Config
 
-This repo contains my custom Wezterm for my desktop computer(mac mini - apple silicon).
+This repo contains my custom Wezterm config for my desktop computer(mac mini - apple silicon).
