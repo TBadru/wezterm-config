@@ -1,6 +1,6 @@
 # Wezterm Config
 
-This repo contains my custom Wezterm Terminal config for my desktop computer(mac mini - apple silicon).
+This repo contains my custom Wezterm(terminal of choice ) Terminal config for macOS (Unix/POSIX), Debian/Ubuntu.
 
 ![my wezterm ui](WezTermUI.png)
 
