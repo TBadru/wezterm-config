@@ -4,10 +4,12 @@ This repo contains my custom Wezterm (terminal of choice) config for macOS (Unix
 
 #RavensFlock 🏈
 
-![my wezterm ui](WezTermUI.png)
+![my wezterm ui](WezTermmacOS1.png)
 
 
-![my wezterm ui](WezTermUI2.png)
+![my wezterm ui](WezTermMacOS.png)
+
+![my wezterm ui](WezTermUbuntu.png)
 
 
 
@@ -16,8 +18,4 @@ This repo contains my custom Wezterm (terminal of choice) config for macOS (Unix
 ```text
 ├── config.lua
 ├── events.lua
-├── LICENSE
-├── README.md
-├── wezterm.lua
-├── WezTermUI.png
-└── WezTermUI2.png
+└── wezterm.lua
