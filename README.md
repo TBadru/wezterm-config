@@ -4,11 +4,11 @@ This repo contains my custom Wezterm (terminal of choice) config for macOS (Unix
 
 #RavensFlock 🏈
 
-![wezterm macos1](WezTermmacOS1.png)
+![wezterm macos1](weztermmacos1.png)
 
-![wezterm macos](WezTermMacOS.png)
+![wezterm macos](weztermmacos.png)
 
-![wezterm ubuntu](WezTermUbuntu.png)
+![wezterm ubuntu](weztermubuntu.png)
 
 
 
