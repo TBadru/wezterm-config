@@ -4,6 +4,8 @@ This repo contains my custom Wezterm (terminal of choice) config for macOS (Unix
 
 #RavensFlock 🏈
 
+## 🖼️ Screenshots
+
 ![wezterm macos1](weztermmacos1.png)
 
 ![wezterm macos](weztermmacos.png)
@@ -12,7 +14,7 @@ This repo contains my custom Wezterm (terminal of choice) config for macOS (Unix
 
 
 
-## File Structure
+## 🚧 File Structure
 
 ```text
 ├── config.lua
